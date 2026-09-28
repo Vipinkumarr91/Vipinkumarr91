@@ -1,4 +1,7 @@
-<div align="center">
+<div align="center>
+<img src="banner.png"width=100%">
+</div>
+
 
 # 👋 Hi, I'm Vipin Kumar
 
