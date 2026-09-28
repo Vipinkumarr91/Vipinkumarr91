@@ -132,7 +132,7 @@ A beginner-friendly Hangman game developed using Python.
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vipin-kumar-08b30637a">
 <img src="https://www.linkedin.com/in/vipin-kumar-08b30637a">
 </a>
 
