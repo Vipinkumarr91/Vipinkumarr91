@@ -133,7 +133,7 @@ A beginner-friendly Hangman game developed using Python.
 </a>
 
 <a href="https://www.linkedin.com/in/vipin-kumar-08b30637a">
-<img src="https://www.linkedin.com/in/vipin-kumar-08b30637a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
